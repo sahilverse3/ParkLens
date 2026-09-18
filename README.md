@@ -1,4 +1,10 @@
-# ParkLens — Parking Lot Occupancy & Violation Detector
+## Author
+
+**Sahil Singh**  
+B.Tech CSE (AIML)  
+Registration No.: 24BAI10461  
+Course: Computer Vision  
+Course Code: CSE3010# ParkLens — Parking Lot Occupancy & Violation Detector
 
 > **Academic project** — A modular Python application that analyses a parking lot image,
 > classifies each slot as FREE or OCCUPIED, detects three types of parking violations,
