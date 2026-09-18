@@ -1,0 +1,13 @@
+timestamp,frame_index,slot_id,slot_type,is_occupied,occupancy_confidence,has_violation,violation_type
+2026-09-18T18:21:34,0,1,regular,False,0.1477,False,
+2026-09-18T18:21:34,0,2,regular,False,0.1868,False,
+2026-09-18T18:21:34,0,3,regular,False,0.2728,False,
+2026-09-18T18:21:34,0,4,no_parking,False,0.2762,False,
+2026-09-18T18:21:34,0,5,regular,False,0.2187,True,oversized_vehicle
+2026-09-18T18:21:34,0,6,regular,False,0.1477,False,
+2026-09-18T18:30:07,0,1,regular,False,0.1477,False,
+2026-09-18T18:30:07,0,2,regular,False,0.1868,False,
+2026-09-18T18:30:07,0,3,regular,False,0.2728,False,
+2026-09-18T18:30:07,0,4,no_parking,False,0.2762,False,
+2026-09-18T18:30:07,0,5,regular,False,0.2187,True,oversized_vehicle
+2026-09-18T18:30:07,0,6,regular,False,0.1477,False,

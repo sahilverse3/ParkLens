@@ -1,0 +1,23 @@
+============================================================
+  ParkLens -- Session Analytics Report
+  Generated: 2026-09-18T18:30:07
+============================================================
+
+  OCCUPANCY SUMMARY
+  -----------------
+  Total parking slots  : 6
+  Total slot readings  : 12
+  Occupied readings    : 0
+  Free readings        : 12
+  Avg occupancy        : 0.00%
+
+  VIOLATION SUMMARY
+  -----------------
+  Total violations     : 2
+    * Oversized Vehicle        : 2
+
+  TOP OFFENDING SLOTS
+  -------------------
+    * Slot #5    : 2 violation(s)
+
+============================================================

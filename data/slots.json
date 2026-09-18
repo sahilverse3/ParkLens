@@ -1,0 +1,13 @@
+{
+  "lot_name": "Main Parking Lot — Sample",
+  "description": "Six slots for Module 1 & 2 demo. S4 is a no-parking zone.",
+  "image_reference": "data/sample_parking.jpg",
+  "slots": [
+    { "slot_id": 1, "x":  20, "y":  20, "width": 90, "height": 200, "slot_type": "regular"    },
+    { "slot_id": 2, "x": 130, "y":  20, "width": 90, "height": 200, "slot_type": "regular"    },
+    { "slot_id": 3, "x": 240, "y":  20, "width": 90, "height": 200, "slot_type": "regular"    },
+    { "slot_id": 4, "x": 350, "y":  20, "width": 90, "height": 200, "slot_type": "no_parking" },
+    { "slot_id": 5, "x": 460, "y":  20, "width": 90, "height": 200, "slot_type": "regular"    },
+    { "slot_id": 6, "x": 550, "y":  20, "width": 90, "height": 200, "slot_type": "regular"    }
+  ]
+}
