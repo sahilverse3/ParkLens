@@ -236,4 +236,3 @@ Input Image / Video
 
 ---
 
-*ParkLens — Academic Project | Python + OpenCV | Local Execution Only*
